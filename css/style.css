@@ -1,3 +1,30 @@
-body{
-    
+* {
+   margin: 0;
+   padding: 0;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    background-image: url(https://www.stuartmagazine.com/wp-content/uploads/sites/141/2021/08/Outdoor-yoga.jpg) ;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float: left;
+    list-style-type: none;
+    margin: 30px;
+}
+ul li {
+    display: inline-block;
+ }
+ul li a{
+    text-decoration: none;
+    color: azure;
+    padding: 5px 20px;
+    border: none;
+    transition: 0.7s ease;
+}
+ul li a:hover{
+    background-color: whitesmoke;
+    color: black;
 }
