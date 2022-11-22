@@ -7,7 +7,7 @@ header{
     background-image: url(https://www.stuartmagazine.com/wp-content/uploads/sites/141/2021/08/Outdoor-yoga.jpg) ;
     height: 80vh;
     background-size: cover;
-    background-position: center;
+    background-position: top;
 }
 ul{
     float: right;
@@ -46,10 +46,47 @@ ul li.active a{
    position: absolute;
    top: 25%;
    left: 5%;
+   float: none;
 }
 section h2 ul li {
     position: left;
     text-align: center;
+}
+
+
+
+.text-right{
+      text-align: right;
+}
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+}
+#contact {
+    margin-bottom: 50px;
+}
+.contact-boxes-container {
+    width: 66%;
+    margin: 0 auto;
+}
+.contact-box-left {
+    width: 250;
+    text-align: left;
+    margin-top: -20;
+    float: left;
+}
+.contact-box-right{
+    width: 250px;
+    text-align: right;
+    margin-top: -20px;
+    float: right;
+}
+                       
+
+.text-uppercase {
+    text-transform: uppercase;
 }
 footer {
 	background-color: #6f4e37;
