@@ -10,7 +10,7 @@ header{
     background-position: center;
 }
 ul{
-    float: left;
+    float: right;
     list-style-type: none;
     margin: 30px;
 }
@@ -27,4 +27,31 @@ ul li a{
 ul li a:hover{
     background-color: whitesmoke;
     color: black;
+}
+.logo {
+   color: beige;
+   font-size: 5em;
+   padding: 0%;
+   margin: 0;
+   text-align: center;
+   position: absolute;
+   top: 25%;
+   left: 5%;
+   
+}
+footer {
+	background-color: #6f4e37;
+	padding: 1em;
+	text-align: center;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: rgb(159, 159, 46);
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
 }
