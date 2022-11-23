@@ -72,15 +72,19 @@ ul li.active a{
 #contact-us {
     height: 300px;
 }
+#contact {
+    height: 50px;
+    text-align: center;
+}
 
 #left-contact {
-    padding-top: 30px;
+    padding-top: 40px;
     width: 33%;
     float: left;
     letter-spacing: 1px;
 }
  #right-contact {
-    padding-top: 30px;
+    padding-top: 40px;
     width: 33%;
     float: right;
  }
@@ -88,9 +92,10 @@ ul li.active a{
  #center-contact {
     width: 33%;
     margin: 0 auto;
+    padding-top: 40px;
  }
+ /* footer */
  
-
 .text-uppercase {
     text-transform: uppercase;
 }
