@@ -56,42 +56,40 @@ ul li.active a{
     left: 5%;
     float: none;
 }
-section h2 ul li {
-    position: left;
-    text-align: center;
+
+/* about us */
+
+#about-us {
+    height: 400px;
+    padding-top: 60px;
+    padding-left: 10px;
+    width: 50%;
+    background-color: hsla(60, 15%, 35%, 0.692);
 }
 
+/* contacts */
 
+#contact-us {
+    height: 300px;
+}
 
-.text-right{
-      text-align: right;
-}
-.text-center {
-    text-align: center;
-}
-.text-left {
-    text-align: left;
-}
-#contact {
-    margin-bottom: 50px;
-}
-.contact-boxes-container {
-    width: 66%;
-    margin: 0 auto;
-}
-.contact-box-left {
-    width: 250;
-    text-align: left;
-    margin-top: -20;
+#left-contact {
+    padding-top: 30px;
+    width: 33%;
     float: left;
+    letter-spacing: 1px;
 }
-.contact-box-right{
-    width: 250px;
-    text-align: right;
-    margin-top: -20px;
+ #right-contact {
+    padding-top: 30px;
+    width: 33%;
     float: right;
-}
-                       
+ }
+
+ #center-contact {
+    width: 33%;
+    margin: 0 auto;
+ }
+ 
 
 .text-uppercase {
     text-transform: uppercase;
