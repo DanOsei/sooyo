@@ -79,7 +79,7 @@ img{
     width: 50%;
     float: right;
     background-color: aquamarine;
-    text-size-adjust: 1;
+    
 }
 
 /* contacts */
@@ -137,13 +137,14 @@ footer > p{
 }
 
 /* For medium screen sizes from 650px wide and down*/
-@media screen and (max-width: 650) {
+@media screen and (max-width: 650px) {
 
-    .hero {
-        clear: left;
-        float: left;
-        margin-left: 30px;
+    .container-1S {
+        clear: right;
+        float: right;
+        margin-left: 10px;
         margin-bottom: 20px;
+        margin-right: 10px;
         line-height: 25px;
     }
     
@@ -165,7 +166,7 @@ footer > p{
 .form {
     display: flex;
     flex-direction: column;
-    width: 50;
+    width: 50%;
     align-items: center;
 }
 
