@@ -60,31 +60,34 @@ ul li.active a{
 /* about us */
 
 .container {
-    margin: 5px auto;
-    width: auto ;
-    height: 350px;
-    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
 }
 
-img {
-    width:  600px;
-    height: 350px;
-    padding: 0 10px 0 0;
-    margin-bottom: 300px;
+img{
+    max-width: 150%;
+}
+
+.img-col {
+    flex-basis: 50%;
+    width: 50%;
+    float: left;
 }
 
 .text {
-    text-align: justify;
-    height: 30px;
-
-    
+    width: 50%;
+    float: right;
+    background-color: aquamarine;
+    text-size-adjust: 1;
 }
 
 /* contacts */
 
 
 #contact{
-    background-size: 400px;
+    background-size: 500px;
+    margin-bottom: 150px;
 }
 
 #left-contact {
@@ -107,7 +110,7 @@ img {
  /* footer */
  
 .text-uppercase {
-    text-transform: uppercase;
+    text-transform: none;
 }
 footer {
 	background-color: #6f4e37;
