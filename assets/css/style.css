@@ -4,7 +4,7 @@
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header{
-    background-image: url(https://www.stuartmagazine.com/wp-content/uploads/sites/141/2021/08/Outdoor-yoga.jpg) ;
+    background-image: url('../image/Outdoor-yoga.jpg') ;
     height: 85vh;
     background-size: cover;
     background-position: top;
