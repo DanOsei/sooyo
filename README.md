@@ -29,4 +29,28 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 
 * ### The About Us section
 
-  *
+  * There abouts us section is represented with a 50% visual image to recall the user of the experience with SooYoga, and a shot presentation of the benefits of yoga.
+  * The text is in a background colour aquamarine in contest with the nature colours and the other head backgrounds in contrast, not too much bright and not faded.
+   * The paragraph text has some bold characters to put in evidence some fundamental words, it's specifies also how many times in a week they are lessons for outdoor yoga.
+
+  ![](../sooyoga/assets/image/Screenshot%20(20).png)
+
+
+* ### The Sign Up form
+
+  * The sign up section is complete with a shot sign up form for whoever wants more information and to subscribe.
+
+  * The form is to collect your name and e-mail address of the user interested to subscribe enter join they SooYoga membership.
+
+  ![](../sooyoga/assets/image/Screenshots%2021A.png)
+
+* ### The Contact Us section
+
+   * The contact section is one of the important sections for its role is to give and inform the user the various ways to contact For more information and have more visual ideas afford to expect with SooYoga on the social media platforms.
+
+    * The user is given multiple ways to contact SooYoga for more details through map address, phone number or e-mail.
+  * The contacts section includes also a philtre don't be low the websites with icons of the most use social media as of today Facebook, Instagram and Twitter.
+
+
+![](../sooyoga/assets/image/Screenshot%20(21).png)
+
