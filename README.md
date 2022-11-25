@@ -1,12 +1,32 @@
 # SooYoga
 
-SooYoga is a website dedicated to yoga lovers but with a different touch of atmosphere environment and lighting it being an outdoor yoga classes, blending the safety and distance of virtual classes with the communal and energy-building nature of in-person classes
+_SooYoga_ is a website dedicated to yoga lovers but with a different touch of atmosphere environment and lighting it being an outdoor yoga classes, blending the safety and distance of virtual classes with the communal and energy-building nature of in-person classes
 Iit is mostly targeted to yoga lovers, to those who find it relaxing and liberal to do yoga once in a while ask stress free practise an even to those who are not into yoga but curious about it. As revealed in my projects the websites it's not focused on normal yoga, but mostly practising yoga in the nature outdoors and trying to stimulate our senses connecting us to our environments.
-Sooyoga classes gives you also the adventure of discovering gnu natural locations near your neighbour-hood, where you wouldn’t even imagine possible to practise yoga and find peace and harmony in the daily life routine.
+
+_Sooyoga_ classes gives you also the adventure of discovering gnu natural locations near your neighbour-hood, where you wouldn’t even imagine possible to practise yoga and find peace and harmony in the daily life routine.
+
+![](../sooyoga/assets/image/Screenshot%20(14).png)
+
+## Features
+
+* ### Navigation bar
+
+  * Featuring at the top right of the website is the navigation bar having the links to our various sectors of the websites starting from the Home link Sign In and Contact Us.
+  * These three feature bottoms will directly lead you too you're section of interest, making it easier to track.
 
 
+* ### The Header
+  * The header also known as the first section homepage captures the attention of the user with the simple natural logo " SooYoga " 
+
+  *The the welcome logo end then navigation bar are in a beige font colour in contrast with the theme of nature.
+
+    * the heading has a warm welcome message underneath the logo to let you understand a bit of what to expect.
+
+![](../sooyoga/assets/image/Screenshot%20(19).png)
+
+  * the background of the header is an eye capturing image, welcoming to the user the intent of the website and its programme to help body and soul in the nature.
 
 
+* ### The About Us section
 
-
-
+  *
