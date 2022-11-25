@@ -8,6 +8,7 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 ![](../sooyoga/assets/image/Screenshot%20(14).png)
 
 ## Features
+----
 
 * ### Navigation bar
 
@@ -24,7 +25,7 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 
 ![](../sooyoga/assets/image/Screenshot%20(19).png)
 
-  * the background of the header is an eye capturing image, welcoming to the user the intent of the website and its programme to help body and soul in the nature.
+  * The background of the header is an eye capturing image, welcoming to the user the intent of the website and its programme to help body and soul in the nature.
 
 
 * ### The About Us section
@@ -54,3 +55,58 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 
 ![](../sooyoga/assets/image/Screenshot%20(21).png)
 
+
+## Testing
+----
+
+* I tested the website in other browsers such as : Firefox. Chrome, Safari and Internet Explorer.
+
+* I have controlled and I confirm that the sign in field with the name and e-mail works and would only accepts correct e-mail before submitting.
+
+* I have confirmed that's the navigation bar works perfectly well connecting directly to the sanquin section and contact us section.
+
+### Bugs
+
+* I didn't really come across bugs but had some little issues with some extra space between some words in links.
+
+### Validator Testing
+
+
+![](../sooyoga/assets/image/Screenshot%20(18).png)
+
+
+* HTML
+  * I came across a couple of arrows in which thanks to the offocial W3C validator, i was able to track them down.
+
+  < td >Tue - Sat < /tb >
+
+  < h2 >---< h1 >--< /h1 >-- < h2 >
+
+* CSS
+    * No errors were found when passing through the official jigsaw validator.
+
+
+* Assessability
+  * I confirm that it has been approved, the colours and fonts chosen where easy and accessible when running through lighthouse.
+
+  ### Unfixed Bugs 
+   None
+
+
+ ## Deployment
+   ----
+   * This site was deployed toGitHub pages. The steps to deploy are:
+     * In the Git Hub repository, click on the settings bar.
+     * At the source section, drop down the menu and select MAIN
+      * Once you have selected MAIN, click save and then the page provides the link to the complete websites.
+      
+      This is the link to  [SooYoga](https://8000-danosei-sooyoga-h129qyx65il.ws-eu77.gitpod.io/?name=dan&email=danghi11%40gmail.com#)
+
+
+## Credits
+----
+### Content
+
+* parts of the code to make the social media links was taken from : Coders Coffeehouse projects.
+
+* The images of the heading and About Us section was taken from Google image.
