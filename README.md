@@ -5,7 +5,7 @@ Iit is mostly targeted to yoga lovers, to those who find it relaxing and liberal
 
 _Sooyoga_ classes gives you also the adventure of discovering gnu natural locations near your neighbour-hood, where you wouldn’t even imagine possible to practise yoga and find peace and harmony in the daily life routine.
 
-![](../sooyoga/assets/image/Screenshot%20(14).png)
+<img src= "assets/image/Screenshot14.png">
 
 ## Features
 ----
@@ -23,7 +23,7 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 
     * the heading has a warm welcome message underneath the logo to let you understand a bit of what to expect.
 
-![](../sooyoga/assets/image/Screenshot%20(19).png)
+![](../SOOYOGA/assets/image/Screenshot(19).png)
 
   * The background of the header is an eye capturing image, welcoming to the user the intent of the website and its programme to help body and soul in the nature.
 
@@ -34,7 +34,7 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
   * The text is in a background colour aquamarine in contest with the nature colours and the other head backgrounds in contrast, not too much bright and not faded.
    * The paragraph text has some bold characters to put in evidence some fundamental words, it's specifies also how many times in a week they are lessons for outdoor yoga.
 
-  ![](../sooyoga/assets/image/Screenshot%20(20).png)
+  ![](..//assets/image/Screenshot(20).png)
 
 
 * ### The Sign Up form
@@ -43,7 +43,7 @@ _Sooyoga_ classes gives you also the adventure of discovering gnu natural locati
 
   * The form is to collect your name and e-mail address of the user interested to subscribe enter join they SooYoga membership.
 
-  ![](../sooyoga/assets/image/Screenshots%2021A.png)
+  ![](../sooyoga/assets/image/Screenshot%20(18).png)
 
 * ### The Contact Us section
 
